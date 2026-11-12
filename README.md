@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Adrian Fernandez 👋
+### AI-Enabled Software Engineer & AWS Certified Developer
 
-<!--
-**AdrianFdz19/AdrianFdz19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building production-ready **LLM agents**, **RAG architectures**, and **cloud-native automation systems** using **Python, TypeScript, and AWS**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Capabilities
+
+- **AI & Agent Systems:** LangChain, OpenAI & Anthropic APIs, Vector Databases, Function Calling, Model Context Protocol (MCP).
+- **Backend & Cloud:** Node.js, Express, Python, PostgreSQL, Docker, AWS (Lambda, ECS, S3, SQS), Terraform.
+- **Frontend & Web:** React, Next.js, Tailwind CSS, TypeScript.
+
+---
+
+### 🚀 Featured Projects
+
+- **[Aura Lead CRM](https://github.com/AdrianFdz19/aura-lead-crm)** – Multi-tenant real estate SaaS with WhatsApp integration & LLM-powered RAG for property querying.
+- **[MyCatalog](https://github.com/AdrianFdz19/mycatalog)** – Product catalog web application featuring vector search RAG and automated inventory management.
+
+---
+
+### 📜 Certifications & Education
+
+- **AWS Certified Developer – Associate** (Passing score: 869)
+- **B.S. in Computer Systems Engineering (In Progress)** – UVEG
+
+---
+
+📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/tu-perfil-aqui/)
